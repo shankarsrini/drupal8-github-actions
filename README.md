@@ -1,4 +1,4 @@
-# Drupal 8 and GitHub Actions
+# Drupal 8.9 and GitHub Actions
 
 ![](https://github.com/juampynr/drupal8-github-actions/workflows/Tests%20and%20code/badge.svg)
 
